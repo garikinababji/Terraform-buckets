@@ -29,6 +29,11 @@ This repository contains hands-on Terraform projects for provisioning Google Clo
 
 ![Bucket](images/bucket-created.png)
 
+Git Commands
+git add .
+git commit -m "Added Terraform GCS bucket hands-on"
+git push origin main
+
 
 ## Author
 
