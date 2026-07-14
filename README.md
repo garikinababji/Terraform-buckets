@@ -24,6 +24,12 @@ This repository contains hands-on Terraform projects for provisioning Google Clo
 - Pub/Sub
 - IAM
 
+  
+## Output
+
+![Bucket](images/bucket-created.png)
+
+
 ## Author
 
 Garikina Babji
